@@ -1,0 +1,14 @@
+{
+  "topic": "BGMI me 1v4 clutch kaise karein",
+  "tag": "GAMING",
+  "voice": "hi-IN-MadhurNeural",
+  "rate": "+8%",
+  "captions": true,
+  "scenes": [
+    {"type": "hook", "say": "BGMI me 1v4 clutch impossible nahi hai. Bas ye teen cheezein follow karo.", "headline": "1v4 Clutch *Possible* Hai", "kicker": "Bas 3 cheezein"},
+    {"type": "points", "say": "Pehli cheez: cover hamesha lo, aur grenade pehle feko.", "title": "Pehla *Rule*", "items": [{"text": "Cover lo, rush mat", "icon": "lock"}, {"text": "Grenade pehle", "icon": "bolt"}, {"text": "Health pack ready", "icon": "target"}]},
+    {"type": "steps", "say": "Doosri cheez: crosshair hamesha head level pe rakho, aur peek se pehle aim ready.", "title": "Crosshair *Tip*", "items": [{"text": "Head level aim", "icon": "target"}, {"text": "Peek se pehle aim", "icon": "search"}, {"text": "Sound suno", "icon": "bolt"}]},
+    {"type": "compare", "say": "Aur teesri: patience. Pehle main seedha rush karta tha. Ab cover leta hoon, phir push karta hoon.", "title": "Farak *Dekho*", "before": "Seedha rush, phir out", "after": "Cover, nade, phir *push*"},
+    {"type": "cta", "say": "Aisi aur BGMI tips ke liye follow karo ARISE VORNYX, aur comment me likho CLUTCH.", "headline": "Follow *ARISE VØRNYX*", "keyword": "CLUTCH"}
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "topic": "AI se 5 minute me professional resume kaise banaye",
+  "tag": "AI TUTORIAL",
+  "voice": "hi-IN-MadhurNeural",
+  "rate": "+8%",
+  "scenes": [
+    {
+      "type": "hook",
+      "say": "Resume banane me ghante lagte hain? AI se sirf पाँच मिनट में बनाओ।",
+      "headline": "AI से *Resume* सिर्फ 5 मिनट में",
+      "kicker": "बिना template ढूँढे"
+    },
+    {
+      "type": "stat",
+      "say": "Recruiter ek resume ko average सिर्फ छह से सात second देखता है।",
+      "title": "Recruiter देखता है सिर्फ",
+      "value": "7",
+      "suffix": "sec",
+      "label": "इसलिए पहली *line* ही सब कुछ है"
+    },
+    {
+      "type": "steps",
+      "say": "तो बस तीन steps follow करो।",
+      "title": "बस *3 Steps*",
+      "items": [
+        { "text": "अपनी details paste करो", "icon": "doc" },
+        { "text": "Job description दो", "icon": "search" },
+        { "text": "AI से rewrite करवाओ", "icon": "wand" }
+      ]
+    },
+    {
+      "type": "prompt",
+      "say": "AI को लिखो: इस job के लिए मेरा resume rewrite करो, numbers के साथ।",
+      "title": "बस इतना *लिखो*",
+      "prompt": "इस job के लिए मेरा resume rewrite करो",
+      "items": [
+        { "text": "Keywords", "icon": "search" },
+        { "text": "Numbers", "icon": "chart" },
+        { "text": "Strong verbs", "icon": "bolt" },
+        { "text": "1 page", "icon": "doc" }
+      ]
+    },
+    {
+      "type": "compare",
+      "say": "देखो फर्क। पहले: sales का काम किया। अब: छह महीने में sales पच्चीस percent बढ़ाई।",
+      "title": "फर्क *देखो*",
+      "before": "Sales का काम किया",
+      "after": "6 महीने में sales *25%* बढ़ाई"
+    },
+    {
+      "type": "points",
+      "say": "बस ध्यान रखना: झूठ मत लिखना, हर job के लिए अलग version बनाना, और PDF में भेजना।",
+      "title": "ध्यान *रखना*",
+      "items": [
+        { "text": "झूठ कभी मत लिखो", "icon": "lock" },
+        { "text": "हर job = अलग version", "icon": "target" },
+        { "text": "हमेशा PDF में भेजो", "icon": "doc" }
+      ]
+    },
+    {
+      "type": "cta",
+      "say": "ऐसी और AI tips के लिए follow करो, और comment में लिखो RESUME, prompt DM में भेजूँगा।",
+      "headline": "ऐसी AI tips के लिए *follow* करो",
+      "keyword": "RESUME"
+    }
+  ]
+}

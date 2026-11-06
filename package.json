@@ -1,0 +1,15 @@
+{
+  "name": "reel-studio-kit",
+  "version": "1.0.0",
+  "description": "Claude se **Reel** banao — na timeline, na cutting, na ghanton ki mehnat. Sirf **3 steps**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.22.1"
+  }
+}

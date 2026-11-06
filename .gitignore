@@ -1,0 +1,12 @@
+node_modules/
+*.mp4
+*.wav
+*.mp3
+*.jpg
+*.png
+*.onnx
+*.bin
+.env
+.yt_creds
+projects/*/voice*
+projects/*/stills/

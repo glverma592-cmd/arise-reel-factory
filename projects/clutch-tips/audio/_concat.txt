@@ -1,0 +1,5 @@
+file '/home/user/reel-studio-kit/projects/clutch-tips/audio/_seg_01.wav'
+file '/home/user/reel-studio-kit/projects/clutch-tips/audio/_seg_02.wav'
+file '/home/user/reel-studio-kit/projects/clutch-tips/audio/_seg_03.wav'
+file '/home/user/reel-studio-kit/projects/clutch-tips/audio/_seg_04.wav'
+file '/home/user/reel-studio-kit/projects/clutch-tips/audio/_seg_05.wav'
